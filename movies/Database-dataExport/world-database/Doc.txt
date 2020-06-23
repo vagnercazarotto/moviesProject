@@ -1,0 +1,1 @@
+Hello.. This dummy database is used only to run the manual test to check the database connection.
